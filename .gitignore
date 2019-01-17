@@ -1,5 +1,5 @@
-
 .gitignore
 .idea/
 Gemfile
 Gemfile.lock
+config/auth_client.rb
